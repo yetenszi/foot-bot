@@ -68,4 +68,4 @@ client.on('ready', () => {
   console.log('Ready!');
 });
 
-client.login('MzE1MTA5Njc0MjY3NzA1MzU1.DAB8SQ.vt00kCaUlFSHhDgcA5-AWDApcwg');
+client.login('token');
